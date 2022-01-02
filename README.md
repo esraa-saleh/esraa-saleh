@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(Note that this profile is under construction, so a lot of what's in here is older work. I should be releasing my more recent work soon, stay tuned :) )
+(Note that this profile is under construction, so a lot of what's in here that is public is fairly old work that skews towrads hackathons. I should be releasing my more recent research-related work soon, stay tuned :) )
