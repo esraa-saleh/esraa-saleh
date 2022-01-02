@@ -4,7 +4,7 @@ My name is Esra'a (she / her). Summed up: I love tackling new challenges and col
 
 - 🔭 I’m currently working on a Model-Based Reinforcement Learning algorithm for fast adaptation in complex and seemingly changing worlds.
 - 👯 I’m looking to collaborate on Jax based implentations of meta-learning algorithms for reinforcment learning! There simply isn't enough out there in the open source world and we need this to be able to build more reliable scientific foundations for future research.
-- ⚡ Fun fact: I am a downhill skiing enthusiast. One of my dreams is try all the major North american ski hills at least once.
+- ⚡ Fun fact: I am a downhill skiing enthusiast. One of my dreams is try all the major North American ski hills at least once.
 - 📫 How to reach me: email me using esraa1@ualberta.ca 
 
 
