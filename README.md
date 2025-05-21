@@ -1,11 +1,10 @@
 ### Hi there citizen of the internet! 👋
 
-My name is Esra'a, pronounced " Ess-raa' ". I love tackling new challenges and collaborating with all kinds of interesting people along the way. I am a Canadian Computer Science Masters student at the University of Alberta, affiliated with AMII (Alberta Machine Intelligence Institute) and RLAI (Reinforcement Learning and Artificial Intelligence Lab). 
+My name is Esra'a, pronounced " Ess-raa' ". I love tackling new challenges and collaborating with all kinds of interesting people along the way. 
 
-- 🔭 I’m currently working on designing a Model-Based Reinforcement Learning algorithm for fast adaptation in complex and seemingly changing worlds.
-- 👯 I’m looking to collaborate on Jax based implentations of meta-learning algorithms for reinforcment learning! There simply isn't enough out there in the open source world and we need this to be able to build more reliable scientific foundations for future research.
+- 🔭 I’m currently working on algorithms for creating general world models that help agents plan efficiently in a big world.
 - ⚡ Fun fact: I am a downhill skiing enthusiast. One of my dreams is try all the major North American ski hills at least once.
-- 📫 How to reach me: email me using --> esraa1 at ualberta.ca 
+- 📫 How to reach me: email me using --> esraa.saleh@mila.quebec
 
 
 <!--
