@@ -4,7 +4,7 @@ My name is Esra'a, pronounced " Ess-raa' ". I love tackling new challenges and c
 
 - 🔭 I’m currently working on algorithms for creating general world models that help agents plan efficiently in a big world.
 - ⚡ Fun fact: I am a downhill skiing enthusiast. One of my dreams is try all the major North American ski hills at least once.
-- 📫 How to reach me: email me using --> esraa.saleh@mila.quebec
+- 📫 How to reach me: email me using --> the.esraa.saleh@gmail.com
 
 
 <!--
